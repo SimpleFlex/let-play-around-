@@ -1,0 +1,14 @@
+
+body{
+    background-image:url('apple.jpg');
+    background-size: cover;
+}
+
+li{
+    list-style: none
+    display: inline-block;
+}
+.web{
+    text-align: center
+    border: 5px dashed blue ;
+}
